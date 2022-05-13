@@ -1,0 +1,15 @@
+L:\שנה ב\מהט\WPF\מיכל בלומנטל\WpfGameXO\WpfGameXO\bin\Debug\WpfGameXO.exe.config
+L:\שנה ב\מהט\WPF\מיכל בלומנטל\WpfGameXO\WpfGameXO\bin\Debug\WpfGameXO.exe
+L:\שנה ב\מהט\WPF\מיכל בלומנטל\WpfGameXO\WpfGameXO\bin\Debug\WpfGameXO.pdb
+L:\שנה ב\מהט\WPF\מיכל בלומנטל\WpfGameXO\WpfGameXO\obj\Debug\WpfGameXO.csprojAssemblyReference.cache
+L:\שנה ב\מהט\WPF\מיכל בלומנטל\WpfGameXO\WpfGameXO\obj\Debug\MainWindow.g.cs
+L:\שנה ב\מהט\WPF\מיכל בלומנטל\WpfGameXO\WpfGameXO\obj\Debug\App.g.cs
+L:\שנה ב\מהט\WPF\מיכל בלומנטל\WpfGameXO\WpfGameXO\obj\Debug\WpfGameXO_MarkupCompile.cache
+L:\שנה ב\מהט\WPF\מיכל בלומנטל\WpfGameXO\WpfGameXO\obj\Debug\WpfGameXO_MarkupCompile.lref
+L:\שנה ב\מהט\WPF\מיכל בלומנטל\WpfGameXO\WpfGameXO\obj\Debug\MainWindow.baml
+L:\שנה ב\מהט\WPF\מיכל בלומנטל\WpfGameXO\WpfGameXO\obj\Debug\WpfGameXO.g.resources
+L:\שנה ב\מהט\WPF\מיכל בלומנטל\WpfGameXO\WpfGameXO\obj\Debug\WpfGameXO.Properties.Resources.resources
+L:\שנה ב\מהט\WPF\מיכל בלומנטל\WpfGameXO\WpfGameXO\obj\Debug\WpfGameXO.csproj.GenerateResource.cache
+L:\שנה ב\מהט\WPF\מיכל בלומנטל\WpfGameXO\WpfGameXO\obj\Debug\WpfGameXO.csproj.CoreCompileInputs.cache
+L:\שנה ב\מהט\WPF\מיכל בלומנטל\WpfGameXO\WpfGameXO\obj\Debug\WpfGameXO.exe
+L:\שנה ב\מהט\WPF\מיכל בלומנטל\WpfGameXO\WpfGameXO\obj\Debug\WpfGameXO.pdb
